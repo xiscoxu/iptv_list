@@ -76,11 +76,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/beijing.png" group-title="卫视频道",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://www.mlzhongguo.com/uploads/image/06/15924476174495.jpg" group-title="卫视频道",北京生活
-http://61.148.223.18:8888/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://n.sinaimg.cn/sports/transform/175/w650h325/20190509/e8f1-hwsffzc0319719.jpg" group-title="卫视频道",北京体育
-http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
+http://iptv.tvfix.org/hls/brtv7hd.m3u8
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/beijing.png" group-title="卫视频道",北京影视
+http://iptv.tvfix.org/hls/brtv4hd.m3u8
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbedab64f92398bce036afc37931b110" group-title="卫视频道",北京文艺
-http://61.148.223.18:8888/newlive/live/hls/47/live.m3u8
+http://iptv.tvfix.org/hls/brtv2hd.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hunan.png" group-title="卫视频道",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/dongfang.png" group-title="卫视频道",东方卫视
