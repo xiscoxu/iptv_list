@@ -80,7 +80,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8
 #EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://n.sinaimg.cn/sports/transform/175/w650h325/20190509/e8f1-hwsffzc0319719.jpg" group-title="卫视频道",北京体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbedab64f92398bce036afc37931b110" group-title="卫视频道",北京文艺
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+rtp://239.3.1.226:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/beijing.png" group-title="卫视频道",北京影视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hunan.png" group-title="卫视频道",湖南卫视
