@@ -75,6 +75,16 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/beijing.png" group-title="卫视频道",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://www.mlzhongguo.com/uploads/image/06/15924476174495.jpg" group-title="卫视频道",北京生活
+https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
+#EXTINF:-1 tvg-id="北京体育超清" tvg-name="北京体育超清" tvg-logo="https://n.sinaimg.cn/sports/transform/175/w650h325/20190509/e8f1-hwsffzc0319719.jpg" group-title="卫视频道",北京体育超清
+https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
+#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://n.sinaimg.cn/sports/transform/175/w650h325/20190509/e8f1-hwsffzc0319719.jpg" group-title="卫视频道",北京体育
+https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
+#EXTINF:-1 tvg-id="北京文艺超清" tvg-name="北京文艺超清" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbedab64f92398bce036afc37931b110" group-title="卫视频道",北京文艺超清
+https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbedab64f92398bce036afc37931b110" group-title="卫视频道",北京文艺
+https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hunan.png" group-title="卫视频道",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/dongfang.png" group-title="卫视频道",东方卫视
